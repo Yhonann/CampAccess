@@ -1,0 +1,94 @@
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\csc.exe
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\csc.exe.config
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\csc.rsp
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\csi.exe
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\csi.rsp
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\System.AppContext.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\System.Collections.Immutable.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\System.IO.FileSystem.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\vbc.exe
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\vbc.exe.config
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\vbc.rsp
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\VBCSCompiler.exe
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\roslyn\VBCSCompiler.exe.config
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\CampAccess.dll.config
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\CampAccess.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\CampAccess.pdb
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\Microsoft.Web.Infrastructure.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\System.Web.Helpers.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\System.Web.Mvc.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\System.Web.Razor.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\System.Web.Webpages.Deployment.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\System.Web.Webpages.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\System.Web.Webpages.Razor.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\System.Web.Razor.xml
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\System.Web.Webpages.xml
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\System.Web.Webpages.Deployment.xml
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\System.Web.Webpages.Razor.xml
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\System.Web.Helpers.xml
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\bin\System.Web.Mvc.xml
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\obj\Debug\CampAccess.csprojResolveAssemblyReference.cache
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\obj\Debug\CampAccess.dll
+c:\users\yhona\onedrive\documents\visual studio 2017\Projects\CampAccess\CampAccess\obj\Debug\CampAccess.pdb
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\csc.exe
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\csc.exe.config
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\csc.rsp
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\csi.exe
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\csi.rsp
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\System.AppContext.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\vbc.exe
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\vbc.exe.config
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\vbc.rsp
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\VBCSCompiler.exe
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\CampAccess.dll.config
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\CampAccess.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\CampAccess.pdb
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\System.Web.Helpers.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\System.Web.Mvc.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\System.Web.Razor.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\System.Web.Webpages.Deployment.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\System.Web.Webpages.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\System.Web.Webpages.Razor.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\System.Web.Razor.xml
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\System.Web.Webpages.xml
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\System.Web.Webpages.Deployment.xml
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\System.Web.Webpages.Razor.xml
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\System.Web.Helpers.xml
+C:\Users\yhona\Desktop\CampAccess\CampAccess\bin\System.Web.Mvc.xml
+C:\Users\yhona\Desktop\CampAccess\CampAccess\obj\Debug\CampAccess.csprojResolveAssemblyReference.cache
+C:\Users\yhona\Desktop\CampAccess\CampAccess\obj\Debug\CampAccess.dll
+C:\Users\yhona\Desktop\CampAccess\CampAccess\obj\Debug\CampAccess.pdb
